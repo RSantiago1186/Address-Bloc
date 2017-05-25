@@ -1,4 +1,3 @@
-
 # Include AddressBook using require_relative
 require_relative "../models/address_book"
 
